@@ -2,7 +2,7 @@
 ## Modifications:
 
 * Patches for REALTEK_PHY driver (R4S only - fixed unitialized LAN port after reboot)
-* Increase rootfs size to 1024MB (vice verse upgrade support)
+* Increase rootfs size to 1024MB (upgrade support from official and vice verse)
 * dnsmasq-full instead dnsmasq
 * syslog-ng instead logd
 * Enable Dropbear support ecdsa keys
