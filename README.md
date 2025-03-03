@@ -1,7 +1,7 @@
 # OpenWrt-NanoPi-R3S_R4S
 ## Modifications:
 
-* Patches for REALTEK_PHY driver (R4S only - fixed unitialized LAN port after reboot)
+* Patches for REALTEK_PHY driver (R4S only)
 * Increase rootfs size to 1024MB (upgrade support from official and vice verse)
 * dnsmasq-full instead dnsmasq
 * syslog-ng instead logd
